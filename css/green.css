@@ -1,0 +1,62 @@
+/* Green */
+
+body{
+	background:#111 url(../themes/green/pages_bg.jpg) repeat-x top left;
+	}
+
+.homepage{
+	background:#111 url(../themes/green/website_bg.jpg) repeat-x left top;
+}
+
+#footer{ background:url(../themes/green/footer_bg.jpg) repeat-x left top;}
+
+.nav li a:hover{color:#CCC;}
+.nav ul li ul li a:hover{
+	color:#509f00;
+	background:#151515;
+}
+
+#main a{ color:#CCC;}
+#main a:hover{color:#509f00;}
+
+.twitter a{color:#509f00;}
+.twitter a:hover{color:#FFF;}
+
+
+.readmore_1col a:hover{
+	background:url(../images/arrow_readmore_509f00.png) no-repeat 50% bottom;
+	padding:0 0 15px 0;
+}
+
+	.continue a:hover{
+		background:url(../images/arrow_list_509f00.png) no-repeat right 50%;
+		color:#509f00;
+	}
+	
+.col_1 li a{
+	background:url(../images/arrow_list.png) no-repeat left 50%;
+	border-bottom:1px solid #333;
+	color:#FFF;
+	padding:3px 6px 3px 18px;
+	display:block;
+}
+.col_1 li a:hover{
+	background:url(../images/arrow_list_509f00.png) no-repeat 8px 50%;
+	color:#509f00;
+}
+
+#footer .left a{ color:#509f00;}
+#footer .left a:hover{color:#CCC;}
+
+h5{ color:#509f00;}
+
+.nice_images{
+	padding:1px 0;
+	border-top:1px solid #333;
+	border-bottom:1px solid #509f00;
+}
+
+.homeSlogan{color:#509f00;}
+
+
+.current{color:#509f00 !important;}

@@ -1,0 +1,203 @@
+[25-Dec-2011 07:54:00] PHP Warning:  require(session/DBConnection.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/chmscian/public_html/chmscnet/login.php on line 94
+[25-Dec-2011 07:54:00] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'session/DBConnection.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/chmscian/public_html/chmscnet/login.php on line 94
+[25-Dec-2011 08:10:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/session/DBConnection.php on line 2
+[25-Dec-2011 08:15:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/session/DBConnection.php on line 2
+[25-Dec-2011 08:15:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/session/DBConnection.php on line 2
+[25-Dec-2011 08:35:20] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/session/DBConnection.php on line 2
+[25-Dec-2011 08:35:23] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/session/DBConnection.php on line 2
+[25-Dec-2011 08:35:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/session/DBConnection.php on line 2
+[25-Dec-2011 08:35:57] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/session/DBConnection.php on line 2
+[08-Jan-2012 22:10:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/session/DBConnection.php on line 2
+[08-Jan-2012 23:25:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'chmscnet'@'localhost' (using password: YES) in /home/chmscian/public_html/chmscnet/friends_photos.php on line 202
+[08-Jan-2012 23:25:08] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/chmscian/public_html/chmscnet/friends_photos.php on line 204
+[08-Jan-2012 23:25:08] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/chmscian/public_html/chmscnet/friends_photos.php on line 217
+[08-Jan-2012 23:25:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friends_photos.php on line 218
+[08-Jan-2012 23:25:08] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/chmscian/public_html/chmscnet/friends_photos.php on line 242
+[08-Jan-2012 23:25:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friends_photos.php on line 244
+[09-Jan-2012 00:06:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/contact.php:11) in /home/chmscian/public_html/chmscnet/contact.php on line 112
+[09-Jan-2012 00:07:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/contact.php:11) in /home/chmscian/public_html/chmscnet/contact.php on line 112
+[09-Jan-2012 00:10:07] PHP Parse error:  syntax error, unexpected ',' in /home/chmscian/public_html/chmscnet/contact.php on line 115
+[09-Jan-2012 00:10:07] PHP Parse error:  syntax error, unexpected ',' in /home/chmscian/public_html/chmscnet/contact.php on line 115
+[09-Jan-2012 00:17:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/faculty.php:10) in /home/chmscian/public_html/chmscnet/faculty.php on line 305
+[09-Jan-2012 00:22:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/alumni.php:10) in /home/chmscian/public_html/chmscnet/alumni.php on line 302
+[11-Jan-2012 00:05:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'chmscnet'@'localhost' (using password: YES) in /home/chmscian/public_html/chmscnet/editpropic.php on line 3
+[11-Jan-2012 00:05:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'chmscnet'@'localhost' (using password: YES) in /home/chmscian/public_html/chmscnet/editpropic.php on line 3
+[11-Jan-2012 00:05:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'chmscnet'@'localhost' (using password: YES) in /home/chmscian/public_html/chmscnet/editpropic.php on line 3
+[13-Jan-2012 19:39:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'chmscnet'@'localhost' (using password: YES) in /home/chmscian/public_html/chmscnet/editpropic.php on line 3
+[14-Jan-2012 04:12:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/profile.php on line 593
+[20-Jan-2012 19:59:01] PHP Parse error:  syntax error, unexpected '<' in /home/chmscian/public_html/chmscnet/profile.php on line 589
+[20-Jan-2012 20:03:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/editpropic.php:2) in /home/chmscian/public_html/chmscnet/editpropic.php on line 2
+[20-Jan-2012 20:03:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/editpropic.php on line 29
+[20-Jan-2012 20:04:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/commentpost.php on line 33
+[20-Jan-2012 20:06:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/commentpost.php:8) in /home/chmscian/public_html/chmscnet/commentpost.php on line 62
+[20-Jan-2012 20:15:09] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/commentpost.php on line 34
+[20-Jan-2012 20:17:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/editpropic.php:2) in /home/chmscian/public_html/chmscnet/editpropic.php on line 2
+[20-Jan-2012 20:17:10] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/editpropic.php on line 29
+[20-Jan-2012 20:23:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/editpropic.php:8) in /home/chmscian/public_html/chmscnet/editpropic.php on line 57
+[20-Jan-2012 20:28:27] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/chmscian/public_html/chmscnet/editpropic.php on line 40
+[20-Jan-2012 20:28:27] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/chmscian/public_html/chmscnet/editpropic.php on line 42
+[20-Jan-2012 22:55:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/profile.php:2) in /home/chmscian/public_html/chmscnet/profile.php on line 2
+[22-Jan-2012 21:08:11] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/mail.php on line 331
+[22-Jan-2012 23:37:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends.php:2) in /home/chmscian/public_html/chmscnet/friends.php on line 2
+[22-Jan-2012 23:37:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends.php:2) in /home/chmscian/public_html/chmscnet/friends.php on line 2
+[22-Jan-2012 23:42:00] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends.php:2) in /home/chmscian/public_html/chmscnet/friends.php on line 2
+[22-Jan-2012 23:42:01] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends.php:2) in /home/chmscian/public_html/chmscnet/friends.php on line 2
+[22-Jan-2012 23:42:12] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends.php:2) in /home/chmscian/public_html/chmscnet/friends.php on line 2
+[22-Jan-2012 23:42:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends.php:2) in /home/chmscian/public_html/chmscnet/friends.php on line 2
+[22-Jan-2012 23:44:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends.php:2) in /home/chmscian/public_html/chmscnet/friends.php on line 2
+[22-Jan-2012 23:45:31] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends.php:2) in /home/chmscian/public_html/chmscnet/friends.php on line 2
+[22-Jan-2012 23:46:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends.php:2) in /home/chmscian/public_html/chmscnet/friends.php on line 2
+[23-Jan-2012 00:56:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/alumnilist.php on line 391
+[23-Jan-2012 00:56:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/alumnilist.php on line 386
+[23-Jan-2012 01:17:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/approvestud.php:14) in /home/chmscian/public_html/chmscnet/approvestud.php on line 16
+[24-Jan-2012 22:44:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/chmscian/public_html/chmscnet/saveupload.php on line 24
+[24-Jan-2012 22:51:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/saveupload.php:2) in /home/chmscian/public_html/chmscnet/saveupload.php on line 2
+[24-Jan-2012 22:54:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/saveupload.php:8) in /home/chmscian/public_html/chmscnet/saveupload.php on line 63
+[24-Jan-2012 23:12:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/savecomment.php:7) in /home/chmscian/public_html/chmscnet/savecomment.php on line 52
+[24-Jan-2012 23:12:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/savecomment.php:7) in /home/chmscian/public_html/chmscnet/savecomment.php on line 52
+[24-Jan-2012 23:15:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/savecomment.php:7) in /home/chmscian/public_html/chmscnet/savecomment.php on line 52
+[24-Jan-2012 23:54:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/userprofile.php:2) in /home/chmscian/public_html/chmscnet/userprofile.php on line 2
+[24-Jan-2012 23:54:22] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/userprofile.php:2) in /home/chmscian/public_html/chmscnet/userprofile.php on line 2
+[25-Jan-2012 01:04:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/action.php:31) in /home/chmscian/public_html/chmscnet/action.php on line 52
+[25-Jan-2012 01:43:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 481
+[25-Jan-2012 01:46:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 481
+[25-Jan-2012 03:25:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/home.php:2) in /home/chmscian/public_html/chmscnet/home.php on line 2
+[25-Jan-2012 03:57:43] PHP Fatal error:  Call to undefined function inclue() in /home/chmscian/public_html/chmscnet/home.php on line 521
+[25-Jan-2012 03:59:17] PHP Parse error:  syntax error, unexpected T_IF in /home/chmscian/public_html/chmscnet/chatbox/chatbox.php on line 133
+[25-Jan-2012 04:05:12] PHP Parse error:  syntax error, unexpected T_IF in /home/chmscian/public_html/chmscnet/chatbox/chatbox.php on line 138
+[25-Jan-2012 04:05:30] PHP Parse error:  syntax error, unexpected T_IF in /home/chmscian/public_html/chmscnet/chatbox/chatbox.php on line 138
+[25-Jan-2012 04:10:02] PHP Parse error:  syntax error, unexpected T_IF in /home/chmscian/public_html/chmscnet/chatbox/chatbox.php on line 138
+[25-Jan-2012 04:12:09] PHP Parse error:  syntax error, unexpected T_IF in /home/chmscian/public_html/chmscnet/chatbox/chatbox.php on line 134
+[25-Jan-2012 04:16:21] PHP Parse error:  syntax error, unexpected T_IF in /home/chmscian/public_html/chmscnet/chatbox/chatbox.php on line 135
+[25-Jan-2012 04:17:09] PHP Parse error:  syntax error, unexpected T_IF in /home/chmscian/public_html/chmscnet/chatbox/chatbox.php on line 135
+[25-Jan-2012 04:23:58] PHP Parse error:  syntax error, unexpected T_IF in /home/chmscian/public_html/chmscnet/chatbox/chatbox.php on line 135
+[25-Jan-2012 04:29:27] PHP Parse error:  syntax error, unexpected '{' in /home/chmscian/public_html/chmscnet/chatbox/chatbox.php on line 191
+[25-Jan-2012 19:23:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/edit.php:3) in /home/chmscian/public_html/chmscnet/edit.php on line 27
+[25-Jan-2012 19:41:12] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/home.php:2) in /home/chmscian/public_html/chmscnet/home.php on line 2
+[25-Jan-2012 19:42:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/edit.php:3) in /home/chmscian/public_html/chmscnet/edit.php on line 29
+[25-Jan-2012 20:10:34] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/try.php on line 43
+[25-Jan-2012 20:10:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/try.php on line 43
+[25-Jan-2012 20:12:01] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/try.php on line 43
+[25-Jan-2012 20:12:01] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/try.php on line 43
+[25-Jan-2012 20:12:04] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/try.php on line 43
+[25-Jan-2012 20:46:51] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/try.php on line 73
+[25-Jan-2012 20:47:03] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/try.php on line 73
+[25-Jan-2012 20:47:04] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/try.php on line 73
+[25-Jan-2012 20:49:03] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/try.php on line 73
+[25-Jan-2012 20:49:04] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/try.php on line 73
+[25-Jan-2012 20:49:52] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/try.php on line 73
+[25-Jan-2012 21:13:45] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0
+[25-Jan-2012 22:29:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/try.php:2) in /home/chmscian/public_html/chmscnet/try.php on line 2
+[25-Jan-2012 22:29:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/try.php:2) in /home/chmscian/public_html/chmscnet/try.php on line 2
+[25-Jan-2012 22:32:04] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/try.php:2) in /home/chmscian/public_html/chmscnet/try.php on line 2
+[25-Jan-2012 23:24:05] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/try.php on line 68
+[25-Jan-2012 23:37:15] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/try.php on line 79
+[25-Jan-2012 23:37:39] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/try.php on line 79
+[25-Jan-2012 23:37:41] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/try.php on line 79
+[25-Jan-2012 23:47:17] PHP Parse error:  syntax error, unexpected T_ECHO in /home/chmscian/public_html/chmscnet/try.php on line 26
+[26-Jan-2012 00:00:42] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/chmscian/public_html/chmscnet/try.php on line 31
+[26-Jan-2012 00:01:28] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/chmscian/public_html/chmscnet/try.php on line 31
+[26-Jan-2012 00:01:30] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/chmscian/public_html/chmscnet/try.php on line 31
+[26-Jan-2012 00:05:24] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/chmscian/public_html/chmscnet/try.php on line 31
+[26-Jan-2012 00:06:37] PHP Parse error:  syntax error, unexpected '{' in /home/chmscian/public_html/chmscnet/try.php on line 42
+[26-Jan-2012 00:25:34] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/try.php on line 54
+[26-Jan-2012 00:25:34] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/try.php on line 54
+[26-Jan-2012 00:25:35] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/home.php on line 529
+[26-Jan-2012 20:40:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/profile.php:2) in /home/chmscian/public_html/chmscnet/profile.php on line 2
+[26-Jan-2012 21:09:24] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/profile.php on line 653
+[26-Jan-2012 21:10:42] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/profile.php on line 653
+[26-Jan-2012 21:10:42] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/profile.php on line 653
+[26-Jan-2012 21:10:43] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/profile.php on line 653
+[26-Jan-2012 21:10:51] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/profile.php on line 653
+[26-Jan-2012 21:29:05] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/chmscian/public_html/chmscnet/try.php on line 55
+[26-Jan-2012 21:29:06] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/chmscian/public_html/chmscnet/try.php on line 55
+[26-Jan-2012 21:30:55] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/chmscian/public_html/chmscnet/try.php on line 55
+[26-Jan-2012 21:30:56] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/chmscian/public_html/chmscnet/try.php on line 55
+[26-Jan-2012 21:31:03] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/chmscian/public_html/chmscnet/try.php on line 55
+[26-Jan-2012 21:33:19] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/chmscian/public_html/chmscnet/try.php on line 71
+[26-Jan-2012 21:34:54] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/chmscian/public_html/chmscnet/try.php on line 71
+[26-Jan-2012 21:48:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/profile.php on line 664
+[26-Jan-2012 22:22:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/profile.php on line 675
+[26-Jan-2012 22:22:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/profile.php on line 675
+[26-Jan-2012 22:56:42] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/chmscian/public_html/chmscnet/saveupload.php on line 39
+[26-Jan-2012 22:56:42] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/chmscian/public_html/chmscnet/saveupload.php on line 41
+[26-Jan-2012 23:03:35] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends_photos.php:2) in /home/chmscian/public_html/chmscnet/friends_photos.php on line 2
+[26-Jan-2012 23:03:35] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends_photos.php:2) in /home/chmscian/public_html/chmscnet/friends_photos.php on line 2
+[26-Jan-2012 23:03:36] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/chmscian/public_html/chmscnet/friends_photos.php:2) in /home/chmscian/public_html/chmscnet/friends_photos.php on line 2
+[26-Jan-2012 23:19:18] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 229
+[26-Jan-2012 23:20:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 229
+[26-Jan-2012 23:27:09] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 229
+[26-Jan-2012 23:27:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 229
+[26-Jan-2012 23:27:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 229
+[26-Jan-2012 23:29:45] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 232
+[26-Jan-2012 23:29:45] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 277
+[26-Jan-2012 23:29:45] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 229
+[26-Jan-2012 23:29:55] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 232
+[26-Jan-2012 23:29:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 277
+[26-Jan-2012 23:29:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 229
+[26-Jan-2012 23:31:45] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 367
+[26-Jan-2012 23:32:03] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 231
+[26-Jan-2012 23:32:03] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/friendsfriend.php on line 229
+[26-Jan-2012 23:40:23] PHP Parse error:  syntax error, unexpected '>' in /home/chmscian/public_html/chmscnet/friend_photoscomment.php on line 225
+[26-Jan-2012 23:45:56] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0
+[28-Jan-2012 19:23:21] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/chmscian/public_html/chmscnet/home.php on line 428
+[28-Jan-2012 21:20:24] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/login.php on line 245
+[28-Jan-2012 21:31:57] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/login.php on line 235
+[28-Jan-2012 21:31:58] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/login.php on line 235
+[28-Jan-2012 21:32:14] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/login.php on line 235
+[28-Jan-2012 21:32:16] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/login.php on line 235
+[29-Jan-2012 03:31:45] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 507
+[29-Jan-2012 03:31:45] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 498
+[29-Jan-2012 04:32:41] PHP Parse error:  syntax error, unexpected '{' in /home/chmscian/public_html/chmscnet/home.php on line 504
+[29-Jan-2012 04:32:42] PHP Parse error:  syntax error, unexpected '{' in /home/chmscian/public_html/chmscnet/home.php on line 504
+[29-Jan-2012 04:34:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 503
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 510
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 515
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 510
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 515
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 510
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 515
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 510
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 515
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 510
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 515
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 510
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 515
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 510
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 515
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 510
+[29-Jan-2012 21:47:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 515
+[29-Jan-2012 22:11:48] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/home.php on line 532
+[29-Jan-2012 22:12:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 508
+[29-Jan-2012 22:12:29] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 512
+[29-Jan-2012 22:14:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 512
+[29-Jan-2012 22:14:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 512
+[29-Jan-2012 22:15:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 512
+[29-Jan-2012 22:17:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 511
+[29-Jan-2012 22:20:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 513
+[29-Jan-2012 22:21:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 513
+[29-Jan-2012 22:21:58] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 513
+[29-Jan-2012 22:25:56] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 512
+[29-Jan-2012 22:28:19] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/home.php on line 565
+[29-Jan-2012 22:28:38] PHP Parse error:  syntax error, unexpected $end in /home/chmscian/public_html/chmscnet/home.php on line 565
+[29-Jan-2012 22:31:31] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/home.php on line 507
+[29-Jan-2012 22:31:58] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/home.php on line 507
+[29-Jan-2012 22:32:14] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 508
+[29-Jan-2012 22:38:25] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/home.php on line 527
+[29-Jan-2012 22:38:25] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/home.php on line 527
+[29-Jan-2012 22:38:25] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/home.php on line 527
+[29-Jan-2012 22:38:25] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/home.php on line 527
+[29-Jan-2012 22:39:19] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/home.php on line 527
+[29-Jan-2012 22:39:20] PHP Parse error:  syntax error, unexpected '}' in /home/chmscian/public_html/chmscnet/home.php on line 527
+[29-Jan-2012 22:44:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 501
+[29-Jan-2012 22:44:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 501
+[29-Jan-2012 22:54:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 508
+[29-Jan-2012 22:54:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 508
+[29-Jan-2012 22:54:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 508
+[29-Jan-2012 22:54:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 508
+[29-Jan-2012 22:54:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 508
+[29-Jan-2012 22:54:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 508
+[29-Jan-2012 22:54:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 508
+[29-Jan-2012 22:54:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 508
+[29-Jan-2012 22:54:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/chmscian/public_html/chmscnet/home.php on line 508
+[30-Jan-2012 19:09:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chmscian/public_html/chmscnet/action.php:31) in /home/chmscian/public_html/chmscnet/action.php on line 52

@@ -1,0 +1,62 @@
+/* Candy */
+
+body{
+	background:#111 url(../themes/salmon/pages_bg.jpg) repeat-x top left;
+	}
+
+.homepage{
+	background:#111 url(../themes/salmon/website_bg.jpg) repeat-x left top;
+}
+
+#footer{ background:url(../themes/salmon/footer_bg.jpg) repeat-x left top;}
+
+.nav li a:hover{color:#CCC;}
+.nav ul li ul li a:hover{
+	color:#fbdabc;
+	background:#151515;
+}
+
+#main a{ color:#CCC;}
+#main a:hover{color:#fbdabc;}
+
+.twitter a{color:#fbdabc;}
+.twitter a:hover{color:#FFF;}
+
+
+.readmore_1col a:hover{
+	background:url(../images/arrow_readmore_fbdabc.png) no-repeat 50% bottom;
+	padding:0 0 15px 0;
+}
+
+	.continue a:hover{
+		background:url(../images/arrow_list_fbdabc.png) no-repeat right 50%;
+		color:#fbdabc;
+	}
+	
+.col_1 li a{
+	background:url(../images/arrow_list.png) no-repeat left 50%;
+	border-bottom:1px solid #333;
+	color:#FFF;
+	padding:3px 6px 3px 18px;
+	display:block;
+}
+.col_1 li a:hover{
+	background:url(../images/arrow_list_fbdabc.png) no-repeat 8px 50%;
+	color:#fbdabc;
+}
+
+#footer .left a{ color:#fbdabc;}
+#footer .left a:hover{color:#CCC;}
+
+h5{ color:#fbdabc;}
+
+.nice_images{
+	padding:1px 0;
+	border-top:1px solid #333;
+	border-bottom:1px solid #fbdabc;
+}
+
+.homeSlogan{color:#fbdabc;}
+
+
+.current{color:#fbdabc !important;}

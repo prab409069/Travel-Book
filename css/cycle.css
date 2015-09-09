@@ -1,0 +1,15 @@
+#slides img { width:828px;
+height:400px; }
+#slidepager a, #slidepager a:visited {
+	float: left;
+	width: 16px;
+	height: 15px;
+	overflow: hidden;
+	background: transparent url("../images/slide-pager.png") no-repeat 0 0;
+	margin-top:10px;
+	text-decoration: none;
+	text-indent: -1234px;}
+#slidepager a:hover {
+	background-position: -16px 0;}
+#slidepager a.activeSlide {
+	background-position: -32px 0;}
